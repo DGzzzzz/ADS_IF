@@ -1,0 +1,32 @@
+1. p: Está frio e q:Está chovendo
+
+a) ~p = Não esta frio
+b) p ^ q = Está frio e está chovendo
+c) p v q = Está frio ou esta chovendo
+f) p v ~q = Esta frio ou não esta chovendo
+g) ~p ^ ~q = Não esta frio e não esta chovendo
+
+2. p: Jorge é rico q: Carlos é feliz
+b) p v ~q = Jorge é rico ou carlos não é feliz
+e) ~~p = É falso que Jorge não é rico - Jorge é rico
+
+3. Claudio fala inglês q: Claudio é alemão
+a) p v q = Claudio fala inglês ou Claudio é alemão
+b) p ^ q = Claudio fala inglês e Claudio é alemão
+c) p ^ ~q = Claudio fala inglês e Claudio não é alemão
+d) ~p ^ ~q = Claudio não fala inglês e Claudio não é alemão
+e) ~~p = Claudio fala inglês - não é verdadeiro que Claudio não fala ingles
+f) ~(~p ^ ~q) = Claudio não fala inglês e Claudio não é alemão. A informação anterior é falsa. - Claudio fala inglês e Claudio é alemão
+
+4. p:João é gaúcho q: Jaime é paulista
+a) ~(~p ^ ~q) = João é gaúcho e Jaime é paulista - João não é gaúcho e Jaime não é paulista. A informação anterior é falsa.
+b) ~~p = João é gaúcho
+c) ~(~p v ~q) = João é gaúcho ou Jaime é paulista
+
+5. p: Marcos é alto q:Marcos é elegante
+a) Marcos é alto e elegante = p ^ q
+b) Marcos é alto, mas não é elegante = p ^ ~q
+c) Não é verdade que marcos é baixo ou elegante = ~(p v q)
+d) Marcos não é nem alto e nem elegante = ~p ^ ~q
+e) Marcos é alto ou é baixo e elegante = 
+f) É falso que Marcos é baixo ou que não é elegante= ~(~p v ~q)
