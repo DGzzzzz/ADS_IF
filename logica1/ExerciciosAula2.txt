@@ -30,3 +30,9 @@ c) Não é verdade que marcos é baixo ou elegante = ~(p v q)
 d) Marcos não é nem alto e nem elegante = ~p ^ ~q
 e) Marcos é alto ou é baixo e elegante = 
 f) É falso que Marcos é baixo ou que não é elegante= ~(~p v ~q)
+
+6. p:Suely é rica e q:Suely é feliz
+a) Suely é pobre, mas feliz = ~p ^ q
+b) Suely é rica ou infeliz = p v ~q
+c) Suely é pobre e infeliz = ~p ^ ~q
+d) Suely é pobre ou rica, mas é infeliz = (~p v p) ~q
