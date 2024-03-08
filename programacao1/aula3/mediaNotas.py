@@ -7,7 +7,9 @@ n4 = float(input('Nota 4: '))
 media = (n1 + n2 + n3 + n4) / 4
 print(f'Sua media é {media}')
 
-if media >= 6:
+if media >= 7:
     print('Aprovado')
+elif media >= 1.7:
+    print('Exame')
 else:
     print('Reprovado')

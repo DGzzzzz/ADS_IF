@@ -3,7 +3,7 @@ anoAtual = int(input('Informe o ano atual: '))
 idade = anoAtual - anoNasc
 print(f'Sua idade é {idade}')
 
-if idade > 18:
+if idade >= 18:
     print('Você pode ter CNH')
 else:
     print('Você ainda não pode ter CNH.')
