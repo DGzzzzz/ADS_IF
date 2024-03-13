@@ -8,38 +8,38 @@ e) p -> ~q = Se esta frio então não esta chovendo
 f) p v ~q = Esta frio ou não esta chovendo
 g) ~p ^ ~q = Não esta frio e não esta chovendo
 h) p <-> ~q = Está frio somente e somente se não está chovendo
-i) p ^ ~q -> p = Não esta chovendo então não esta frio
+i) p ^ ~q -> p = se está frio e não está chovendo então está frio
 
 2. p: Jorge é rico q: Carlos é feliz
-a) q -> p = Carlos é feliz se Jorge é feliz
+a) q -> p = Carlos é feliz então Jorge é rico
 b) p v ~q = Jorge é rico ou carlos não é feliz
-c) q <-> ~p = Jorge é rico se e somente se Carlos não é feliz
-d) ~p -> q = Se Carlos não é feliz então Jorge é rico
+c) q <-> ~p = Carlos é feliz se e somente se Jorge não é rico
+d) ~p -> q = se Jorge não é rico então Carlos é feliz
 e) ~~p = É falso que Jorge não é rico - Jorge é rico
-f) ~p v q -> p = Jorge não é rico ou Carlos é feliz, se Carlos é feliz Jorge é rico
+f) ~p v q -> p = Jorge não é rico e se Carlos é feliz então Jorge é rico
 
-3. Claudio fala inglês q: Claudio é alemão
-a) p v q = Claudio fala inglês ou Claudio é alemão
+3. Claudio fala inglês q: Claudio fala alemão
+a) p v q = Claudio fala inglês ou Claudio fala alemão
 b) p ^ q = Claudio fala inglês e Claudio é alemão
-c) p ^ ~q = Claudio fala inglês e Claudio não é alemão
-d) ~p ^ ~q = Claudio não fala inglês e Claudio não é alemão
+c) p ^ ~q = Claudio fala inglês e não fala alemão
+d) ~p ^ ~q = Claudio não fala inglês e Claudio não fala alemão
 e) ~~p = Claudio fala inglês - não é verdadeiro que Claudio não fala ingles
-f) ~(~p ^ ~q) = Claudio não fala inglês e Claudio não é alemão. A informação anterior é falsa. - Claudio fala inglês e Claudio é alemão
+f) ~(~p ^ ~q) = não é verdade que Cláudio não fala inglês e não fala alemão
 
 4. p:João é gaúcho q: Jaime é paulista
-a) ~(~p ^ ~q) = João é gaúcho e Jaime é paulista - João não é gaúcho e Jaime não é paulista. A informação anterior é falsa.
+a) ~(p ^ ~q) = Não é verdade que João é gaucho e Jaime não é paulista
 b) ~~p = João é gaúcho
-c) ~(~p v ~q) = João é gaúcho ou Jaime é paulista
-d) p -> ~q = Se Jorge é gaúcho então Jaime não é paulista
-e) ~p <-> ~q = Jorge não é gaucho se e somente se Jaime é paulista
-f) ~(~q -> p) = Não é verdade que se Jaime não é paulista então Joao não é gaucho
+c) ~(~p v ~q) = Não é verdade que João não é gaúcho ou Jaime não é paulista
+d) p -> ~q = Se Joao é gaúcho então Jaime não é paulista
+e) ~p <-> ~q = Joao não é gaucho se e somente se Jaime não é paulista
+f) ~(~q -> p) = se Não é verdade que Jaime não é paulista então Joao não é gaucho
 
 5. p: Marcos é alto q:Marcos é elegante
 a) Marcos é alto e elegante = p ^ q
 b) Marcos é alto, mas não é elegante = p ^ ~q
-c) Não é verdade que marcos é baixo ou elegante = ~(p v q)
+c) Não é verdade que marcos é baixo ou elegante = ~(~p v q)
 d) Marcos não é nem alto e nem elegante = ~p ^ ~q
-e) Marcos é alto ou é baixo e elegante = 
+e) Marcos é alto ou é baixo e elegante = p v (~p ^ q)
 f) É falso que Marcos é baixo ou que não é elegante= ~(~p v ~q)
 
 6. p:Suely é rica e q:Suely é feliz
@@ -49,16 +49,7 @@ c) Suely é pobre e infeliz = ~p ^ ~q
 d) Suely é pobre ou rica, mas é infeliz = (~p v p) ~q
 
 7. p:Carlos fala frances q:Carlos fala ingles r:Carlos fala alemão
-a) Carlos fala frances ou ingles, mas nao fala alemao = p ^ q -> ~r
-b) Carlos fala frances e ingles, ou nao fala frances e alemao = (p ^ q) v (~p ^ ~r)
-c) É falso que Carlos fala frances mas que não fala alemao = ~p <-> ~r
-d) É falso que Carlos fala ingles ou alemao mas que não fala frances = ~p v ~r -> ~q
-
-8.
-a) x = 0 ou x > 0 : p v q
-b) x != 0 e y != 0 : p ^ q
-c) x > 1 ou x + y = 0 : p v (p ^ q)
-d) x² = x*x e x° = 1 : 
-
-9.
-a) 
+a) Carlos fala frances ou ingles, mas nao fala alemao = (p v q) ^ ~r
+b) Carlos fala frances e ingles, ou nao fala frances e alemao = (p ^ q) v (~p ^ r)
+c) É falso que Carlos fala frances mas que não fala alemao = ~(p ^ ~r)
+d) É falso que Carlos fala ingles ou alemao mas que não fala frances = ~(q v r ^ ~p) 
