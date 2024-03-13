@@ -3,12 +3,20 @@
 a) ~p = Não esta frio
 b) p ^ q = Está frio e está chovendo
 c) p v q = Está frio ou esta chovendo
+d) q <-> q = Está frio somente e somente se está chovendo
+e) p -> ~q = Se esta frio então não esta chovendo
 f) p v ~q = Esta frio ou não esta chovendo
 g) ~p ^ ~q = Não esta frio e não esta chovendo
+h) p <-> ~q = Está frio somente e somente se não está chovendo
+i) p ^ ~q -> p = Não esta chovendo então não esta frio
 
 2. p: Jorge é rico q: Carlos é feliz
+a) q -> p = Carlos é feliz se Jorge é feliz
 b) p v ~q = Jorge é rico ou carlos não é feliz
+c) q <-> ~p = Jorge é rico se e somente se Carlos não é feliz
+d) ~p -> q = Se Carlos não é feliz então Jorge é rico
 e) ~~p = É falso que Jorge não é rico - Jorge é rico
+f) ~p v q -> p = Jorge não é rico ou Carlos é feliz, se Carlos é feliz Jorge é rico
 
 3. Claudio fala inglês q: Claudio é alemão
 a) p v q = Claudio fala inglês ou Claudio é alemão
@@ -22,6 +30,9 @@ f) ~(~p ^ ~q) = Claudio não fala inglês e Claudio não é alemão. A informaç
 a) ~(~p ^ ~q) = João é gaúcho e Jaime é paulista - João não é gaúcho e Jaime não é paulista. A informação anterior é falsa.
 b) ~~p = João é gaúcho
 c) ~(~p v ~q) = João é gaúcho ou Jaime é paulista
+d) p -> ~q = Se Jorge é gaúcho então Jaime não é paulista
+e) ~p <-> ~q = Jorge não é gaucho se e somente se Jaime é paulista
+f) ~(~q -> p) = Não é verdade que se Jaime não é paulista então Joao não é gaucho
 
 5. p: Marcos é alto q:Marcos é elegante
 a) Marcos é alto e elegante = p ^ q
@@ -36,3 +47,11 @@ a) Suely é pobre, mas feliz = ~p ^ q
 b) Suely é rica ou infeliz = p v ~q
 c) Suely é pobre e infeliz = ~p ^ ~q
 d) Suely é pobre ou rica, mas é infeliz = (~p v p) ~q
+
+7. p:Carlos fala frances q:Carlos fala ingles r:Carlos fala alemão
+a) Carlos fala frances ou ingles, mas nao fala alemao = p ^ q -> ~r
+b) Carlos fala frances e ingles, ou nao fala frances e alemao = (p ^ q) v (~p ^ ~r)
+c) É falso que Carlos fala frances mas que não fala alemao = ~p <-> ~r
+d) É falso que Carlos fala ingles ou alemao mas que não fala frances = ~p v ~r -> ~q
+
+8)
