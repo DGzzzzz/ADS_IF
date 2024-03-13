@@ -54,4 +54,11 @@ b) Carlos fala frances e ingles, ou nao fala frances e alemao = (p ^ q) v (~p ^ 
 c) É falso que Carlos fala frances mas que não fala alemao = ~p <-> ~r
 d) É falso que Carlos fala ingles ou alemao mas que não fala frances = ~p v ~r -> ~q
 
-8)
+8.
+a) x = 0 ou x > 0 : p v q
+b) x != 0 e y != 0 : p ^ q
+c) x > 1 ou x + y = 0 : p v (p ^ q)
+d) x² = x*x e x° = 1 : 
+
+9.
+a) 
