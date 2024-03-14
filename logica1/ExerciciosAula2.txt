@@ -53,3 +53,56 @@ a) Carlos fala frances ou ingles, mas nao fala alemao = (p v q) ^ ~r
 b) Carlos fala frances e ingles, ou nao fala frances e alemao = (p ^ q) v (~p ^ r)
 c) É falso que Carlos fala frances mas que não fala alemao = ~(p ^ ~r)
 d) É falso que Carlos fala ingles ou alemao mas que não fala frances = ~(q v r ^ ~p) 
+
+8.
+a) x = 0 ou x > 0 : p v q
+b) x != 0 e y != 0 : p ^ q
+c) x > 1 ou x + y = 0 : p v q
+d) x² = x*x e x° = 1 : p ^ q
+
+
+9. 
+a)  (p ^ q) v r
+b)  p ^ (q v r)
+c) p v (q ^ r)
+d) (p ^ q) v (r ^ s)
+
+10.
+a) p -> q
+b) ""
+c) p v q -> r
+d) p -> q ^ r
+e) ""
+f) p ^ q -> r
+g) p -> q v r
+h) p ^ q -> r
+
+11. 
+a) (p ^ q) v r
+b) p -> q
+c) p ^ q ^ r
+
+12.
+a) V(p)= F V(q)= V
+b) V(p)= V V(q)= F
+c) V(p)= V V(q)= F
+d) V(p ^ q) = V V(p)= V V(q)= V
+e) V(p ^ q) = V V(p)= V V(q)= V
+f) V(p ^ q) = F V(p)= F V(q)= F
+g) V(p ^ q) = F V(p)= V V(q)= F
+
+13.
+a) V(p v q) = V V(p)= F V(q)= V 
+b) V(p v q) = V V(p)= V V(q)= F
+c) V(p v q) = F V(p)= F V(q)= F
+d) V(p v q) = F V(p)= F V(q)= F
+e) V(p v q) = V V(p)= V V(q)= F
+f) 
+
+
+14.
+a) V(p <-> q)= V
+b) V(p <-> q)= F
+c) V(p <-> q)= F
+d) 
+
