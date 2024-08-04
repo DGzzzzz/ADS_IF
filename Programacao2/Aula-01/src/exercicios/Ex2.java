@@ -13,8 +13,10 @@ public class Ex2 {
 		if (numero % 2 == 0) {
 			System.out.println("Par");
 		} else { 
-			System.out.println("Ímpar");
+			System.out.println("ï¿½mpar");
 		}
+
+		s.close();
 	}
 
 }

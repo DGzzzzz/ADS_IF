@@ -10,11 +10,13 @@ public class Ex3 {
 		int n2 = Integer.parseInt(s.nextLine());
 		
 		if(n1 == n2) {
-			System.out.println("Os dois numeros são iguais");
+			System.out.println("Os dois numeros sï¿½o iguais");
 		} else if(n1 > n2) {
 			System.out.println(n1);
 		} else {
 			System.out.println(n2);
 		}
+
+		s.close();
 	}
 }

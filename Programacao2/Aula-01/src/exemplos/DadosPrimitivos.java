@@ -4,8 +4,8 @@ public class DadosPrimitivos {
 
 	public static void main(String[] args) {
 		//8 tipos primitivos
-		// dados primitivos começam com letras maiúsculas 
-		//Não são classes/objetos
+		// dados primitivos comeï¿½am com letras maiï¿½sculas 
+		//Nï¿½o sï¿½o classes/objetos
 		
 		//8 bits
 		byte b1 = 127;
@@ -25,6 +25,8 @@ public class DadosPrimitivos {
 		char c3 = 'c';
 		
 		System.out.println(c2);
+		System.out.println(c1);
+		System.out.println(c3);
 		
 		System.out.println(t1);
 		System.out.println(t2);
@@ -37,7 +39,7 @@ public class DadosPrimitivos {
 		
 		
 		System.out.println("-----------------------------------------");
-		//String não é um tipo de dado primitivo e sim uma Classe
+		//String nï¿½o ï¿½ um tipo de dado primitivo e sim uma Classe
 		
 		String campus = "IFRS-Feliz";
 		System.out.println(campus);

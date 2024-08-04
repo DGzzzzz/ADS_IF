@@ -19,6 +19,7 @@ public class Ex1 {
 		System.out.println(sub);
 		System.out.println(div);
 		System.out.println(resto);
-	}
 
+		s.close();
+	}
 }

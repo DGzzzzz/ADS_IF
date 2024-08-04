@@ -13,8 +13,9 @@ public class Leitura {
 		System.out.print("Informe sua idade: ");
 		int idade = Integer.parseInt(leitor.nextLine());
 		
-		System.out.println("Olá " + nome + "!");
-		System.out.println("Você tem " + idade + " anos");
-	}
+		System.out.println("Olï¿½ " + nome + "!");
+		System.out.println("Vocï¿½ tem " + idade + " anos");
 
+		leitor.close();
+	}
 }

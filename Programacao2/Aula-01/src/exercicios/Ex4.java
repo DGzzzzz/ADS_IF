@@ -15,6 +15,8 @@ public class Ex4 {
 		
 		double volume = 4 * pi * cuboRaio / 3;
 		System.out.printf("Volume da esfera: %.2f", volume);
+
+		s.close();
 	}
 
 }
