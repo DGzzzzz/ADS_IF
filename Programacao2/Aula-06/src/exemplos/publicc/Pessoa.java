@@ -1,4 +1,4 @@
-package exemplos;
+package exemplos.publicc;
 
 public class Pessoa {
     public String nome;

@@ -1,4 +1,4 @@
-package exemplos;
+package exemplos.publicc;
 
 public class Exemplo {
     public static void main(String[] args) {
