@@ -1,4 +1,4 @@
-package exemplos;
+package exercicios;
 
 public class Computador {
 	
