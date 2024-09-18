@@ -8,8 +8,20 @@ for linha in linhas:
     if len(partes) > 1:
         nome_produto = partes[1]
         nomes_produtos.append(nome_produto)
+        
+def ordena_lista(lista): #Bubble Sort
+    n = len(lista)
+    for i in range(n):
+        trocou = False
+        for j in range(n-1 - i):
+            if lista[j] > lista[j+1]:
+                lista[j], lista[j+1] = lista[j+1], lista[j]
+                trocou = True
+        if not trocou:
+            break
+    return lista
 
-nomes_produtos.sort()
+ordena_lista(nomes_produtos)
 
 def pesquisaBinaria(nomes_produtos, nome_produto):
     inicio = 0
