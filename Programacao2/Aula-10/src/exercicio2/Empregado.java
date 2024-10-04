@@ -4,9 +4,13 @@ public class Empregado extends Pessoa {
 	
 	private Integer codigoSetor;
 	private double salarioBruto;
-	private double imposto;
-	private double porcentagem;
-	
+
+	public Empregado(String nome, String email, String tel, Integer codigoSetor, double salarioBruto) {
+        super(nome, email, tel);
+        this.codigoSetor = codigoSetor;
+		this.salarioBruto = salarioBruto;
+	}
+
 	public Integer getCodigoSetor() {
 		return codigoSetor;
 	}
@@ -19,23 +23,24 @@ public class Empregado extends Pessoa {
 	public void setSalarioBruto(double salarioBruto) {
 		this.salarioBruto = salarioBruto;
 	}
-	public double getImposto() {
-		return imposto;
-	}
-	public void setImposto(double imposto) {
-		this.imposto = imposto;
-	}
 	
 	public double calculaImposto() {
-		porcentagem = 4;
+		double porcentagem = 4;
 		return (salarioBruto * porcentagem) / 100;
 	}
 	
 	public double calcularSalario() {
+		double imposto = calculaImposto();
 		return salarioBruto - imposto;
 	}
 	
 	public String imprimeSalario() {
-		return "sal·rio de R$" + calcularSalario();
+		return "Sal√°rio com imposto: R$" + calcularSalario();
+	}
+
+	public void imprimeEmpregado() {
+		this.imprimeDadosPessoa();
+		System.out.println("Setor: " + this.codigoSetor);
+		System.out.println("Salario Bruto: " + this.salarioBruto);
 	}
 }

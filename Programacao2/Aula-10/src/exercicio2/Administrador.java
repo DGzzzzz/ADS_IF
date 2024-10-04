@@ -1,8 +1,12 @@
 package exercicio2;
 
 public class Administrador extends Empregado {
-	
 	private double ajudaDeCusto;
+
+	public Administrador(String nome, String email, String tel, Integer codigoSetor, double salarioBruto, double ajudaDeCusto) {
+		super(nome, email, tel, codigoSetor, salarioBruto);
+		this.ajudaDeCusto = ajudaDeCusto;
+	}
 
 	public double getAjudaDeCusto() {
 		return ajudaDeCusto;
@@ -17,6 +21,12 @@ public class Administrador extends Empregado {
 	}
 	
 	public String imprimeSalarioAdmin() {
-		return "salário do admin R$" + calcularSalarioAdmin();
+		return "salï¿½rio do admin R$" + calcularSalarioAdmin();
+	}
+
+	public void imprimeDadosAdm() {
+		this.imprimeEmpregado();
+		System.out.println("Ajuda de custo: R$" + this.ajudaDeCusto);
+		System.out.println(imprimeSalarioAdmin());
 	}
 }

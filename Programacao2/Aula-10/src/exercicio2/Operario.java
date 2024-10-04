@@ -3,24 +3,21 @@ package exercicio2;
 public class Operario extends Empregado {
 
 	private double valorProducao;
-	private double porcentagemComissao;
-	private double comissao;
-	
+
+	public Operario(String nome, String email, String tel, Integer codigoSetor, double salarioBruto, double valorProducao) {
+		super(nome, email, tel, codigoSetor, salarioBruto);
+		this.valorProducao = valorProducao;
+	}
+
 	public double getValorProducao() {
 		return valorProducao;
 	}
 	public void setValorProducao(double valorProducao) {
 		this.valorProducao = valorProducao;
 	}
-	public double getComissao() {
-		return comissao;
-	}
-	public void setComissao(double comissao) {
-		this.comissao = comissao;
-	}
 	
 	public double calcularComissaoOperador() {
-		porcentagemComissao = 4;
+		double porcentagemComissao = 4;
 		return (valorProducao * porcentagemComissao) / 100;
 	}
 	
@@ -29,6 +26,12 @@ public class Operario extends Empregado {
 	}
 	
 	public String imprimirSalarioOperario() {
-		return "R$" + calcularSalarioOperario();
+		return "Salário do operador: R$" + calcularSalarioOperario();
+	}
+
+	public void imprimirDadosOperador() {
+		this.imprimeEmpregado();
+		System.out.println("Valor de produção: " + this.valorProducao);
+		System.out.println(imprimirSalarioOperario());
 	}
 }

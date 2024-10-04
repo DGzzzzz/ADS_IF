@@ -2,10 +2,16 @@ package exercicio2;
 
 public class Fornecedor extends Pessoa {
 	
-	private int valorDivida;
-	private int valorCredito;
-	
-	public int getValorDivida() {
+	private double valorDivida;
+	private double valorCredito;
+
+	public Fornecedor(String nome, String email, String tel, double valorDivida, double valorCredito) {
+		super(nome, email, tel);
+		this.valorDivida = valorDivida;
+		this.valorCredito = valorCredito;
+	}
+
+	public double getValorDivida() {
 		return valorDivida;
 	}
 
@@ -13,7 +19,7 @@ public class Fornecedor extends Pessoa {
 		this.valorDivida = valorDivida;
 	}
 
-	public int getValorCredito() {
+	public double getValorCredito() {
 		return valorCredito;
 	}
 
@@ -21,11 +27,17 @@ public class Fornecedor extends Pessoa {
 		this.valorCredito = valorCredito;
 	}
 
-	public int obterSaldo() {
+	public double obterSaldo() {
 		return valorCredito - valorDivida;
 	}
 	
 	public String imprimirSaldo() {
-		return "" + obterSaldo();
+		return "Saldo remanescente R$: " + obterSaldo();
+	}
+
+	public void imprimirDadosFornecedor() {
+		this.imprimeDadosPessoa();
+		System.out.println("Valor divida R$: " + this.valorDivida);
+		System.out.println("Valor crédito R$: " + this.valorCredito);
 	}
 }

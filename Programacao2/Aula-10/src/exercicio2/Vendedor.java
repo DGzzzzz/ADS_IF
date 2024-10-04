@@ -3,24 +3,21 @@ package exercicio2;
 public class Vendedor extends Empregado {
 	
 	private double valorVendas;
-	private double porcentagemComissao;
-	private double comissao;
-	
+
+	public Vendedor(String nome, String email, String tel, Integer codigoSetor, double salarioBruto, double  valorVendas) {
+		super(nome, email, tel, codigoSetor, salarioBruto);
+		this.valorVendas = valorVendas;
+	}
+
 	public double getValorVendas() {
 		return valorVendas;
 	}
 	public void setValorVendas(double valorVendas) {
 		this.valorVendas = valorVendas;
 	}
-	public double getComissao() {
-		return comissao;
-	}
-	public void setComissao(double comissao) {
-		this.comissao = comissao;
-	}
 	
 	public double calculaComissao() {
-		porcentagemComissao = 4;
+		double porcentagemComissao = 4;
 		return (valorVendas * porcentagemComissao) / 100;
 	}
 	
@@ -29,6 +26,13 @@ public class Vendedor extends Empregado {
 	}
 	
 	public String imprimirSalarioVendedor() {
-		return "R$" + calcularSalarioVendedor();
+		return "Salario com comissao: R$" + calcularSalarioVendedor();
 	}
+
+	public void imprimirDadosVendedor() {
+		this.imprimeEmpregado();
+		System.out.println("Valor de vendas: R$" + this.valorVendas);
+		System.out.println(imprimirSalarioVendedor());
+	}
+
 }

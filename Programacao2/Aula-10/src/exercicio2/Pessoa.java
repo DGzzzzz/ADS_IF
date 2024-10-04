@@ -5,7 +5,13 @@ public class Pessoa {
 	private String nome;
 	private String email;
 	private String tel;
-	
+
+	public Pessoa(String nome, String email, String tel) {
+		this.nome = nome;
+		this.email = email;
+		this.tel = tel;
+	}
+
 	public String getNome() {
 		return nome;
 	}
@@ -23,5 +29,11 @@ public class Pessoa {
 	}
 	public void setTel(String tel) {
 		this.tel = tel;
+	}
+
+	public void imprimeDadosPessoa() {
+		System.out.println("Nome: " + this.nome);
+		System.out.println("E-mail: " + this.email);
+		System.out.println("Tel: " + this.tel);
 	}
 }
