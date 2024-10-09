@@ -5,67 +5,121 @@ import java.util.Scanner;
 
 public class App {
 
+	private static Scanner s = new Scanner(System.in);
+	private static ArrayList<Pessoa> pessoas = new ArrayList<Pessoa>();
+
 	public static void main(String[] args) {
-		
-		Scanner s = new Scanner(System.in);
-		ArrayList<Pessoa> pessoas = new ArrayList<Pessoa>();
-		
-		int option = 1000;
-		
+
+		int option;
+
 		do  {
-			
-			System.out.println("Op��es: ");
-			System.out.println("Sair: 0");
-			System.out.println("Cadastrar: 1");
-			System.out.println("Remover pelo CPF: 2");
-			System.out.println("Remover todos: 3");
-			System.out.println("Listar todos: 4");
-			System.out.println("digite abaixo:");
+
+			exibirMenu();
 			option = Integer.parseInt(s.nextLine());
-			
-			if(option == 1) {
-				System.out.println("Informe um nome: ");
-				String nome = s.nextLine();
-				System.out.println("Informe o CPF: ");
-				String cpf = s.nextLine();
-				System.out.println("Informe a idade: ");
-				Integer idade = Integer.parseInt(s.nextLine());
-				pessoas.add(new Pessoa(nome, cpf, idade));
+
+			switch (option) {
+				case 0:
+					System.out.println("Encerrando...");
+					break;
+				case 1:
+					cadastrarPessoa();
+					break;
+				case 2:
+					consultarPorCpf();
+					break;
+				case 3:
+					consultarTodos();
+					break;
+				case 4:
+					removerPorCpf();
+					break;
+				case 5:
+					removerTodos();
+					break;
+				default:
+					System.out.println("Opção invalida...");
 			}
-			
-			if(option == 2) {
-				System.out.println("Informe o CPF para remover a pessoa: ");
-				String cpf = s.nextLine();
-				for (int i = 0; i < pessoas.size(); i++) {
-					if ( cpf.equals(pessoas.get(i).getCpf())) {
-						pessoas.remove(i);
-					} else {
-						System.out.println("CPF nao encontrado");
-					}
-				}
-			}
-			
-			if(option == 3) {
-				pessoas.clear();
-			}
-			
-			if(option == 4) {
-				for (int i = 0; i < pessoas.size(); i++) {
-					System.out.println("Nome: " + pessoas.get(i).getNome());
-					System.out.println("CPF: " + pessoas.get(i).getCpf());
-					System.out.println("Idade: " + pessoas.get(i).getIdade());
-				}
-			}
-			
-			if(option == 5) {
-				System.out.println("Informe o CPF para consultar seus dados: ");
-				String consulta = s.nextLine();
-				
-			}
-			
+
 		} while (option != 0);
-		
+
 		s.close();
 	}
 
+	public static void exibirMenu() {
+
+		System.out.println("================================");
+		System.out.println("Sair: 0");
+		System.out.println("Cadastrar: 1");
+		System.out.println("Consulta por CPF: 2");
+		System.out.println("Consultar todos: 3");
+		System.out.println("Remover por cpf: 4");
+		System.out.println("Remover todos: 5");
+	}
+
+	public static void cadastrarPessoa() {
+
+		System.out.println("Nome: ");
+		String nome = s.nextLine();
+		System.out.println("CPF: ");
+		String cpf = s.nextLine();
+		System.out.println("Idade: ");
+		Integer idade = Integer.parseInt(s.nextLine());
+
+		pessoas.add(new Pessoa(nome, cpf, idade));
+	}
+
+	public static void consultarPorCpf() {
+
+		System.out.println("Insira o CPF para consultar: ");
+		String cpf = s.nextLine();
+		Pessoa pessoa = pessoas.stream()
+				.filter(p -> p.getCpf().equals(cpf))
+				.findFirst()
+				.orElse(null);
+
+		if (pessoa != null) {
+			System.out.println("Nome: " + pessoa.getNome());
+			System.out.println("CPF: " + pessoa.getCpf());
+			System.out.println("Idade: " + pessoa.getIdade());
+		} else {
+			System.out.println("CPF não encontrado");
+		}
+	}
+
+	public static void consultarTodos() {
+
+		pessoas.stream()
+				.forEach(pessoa -> {
+					System.out.println("Nome: " + pessoa.getNome());
+					System.out.println("CPF: " + pessoa.getCpf());
+					System.out.println("Idade: " + pessoa.getIdade());
+				});
+	}
+
+	private static void removerPorCpf() {
+
+		System.out.println("Insira o CPF para remover: ");
+		String cpf = s.nextLine();
+
+		Pessoa pessoaRemover = pessoas.stream()
+				.filter(pessoa -> pessoa.getCpf().equals(cpf))
+				.findFirst()
+				.orElse(null);
+		if (pessoaRemover != null) {
+			pessoas.remove(pessoaRemover);
+			System.out.println("Pessoa removida com sucesso.");
+		} else {
+			System.out.println("CPF não encontrado");
+		}
+	}
+
+	public static void removerTodos() {
+
+		if(pessoas.isEmpty()) {
+			System.out.println("Não há pessoas para remover.");
+		} else {
+			pessoas.clear();
+			System.out.println("Todas as Pessoas removidas com sucesso..");
+		}
+	}
 }
