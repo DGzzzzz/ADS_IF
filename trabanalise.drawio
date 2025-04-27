@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="lKEfuA6IKY5HmcUoQjAZ">
-    <mxGraphModel dx="2778" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1058" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CCGscqTeK3ZTNfMnBpyx-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-200" width="1730" height="1730" as="geometry" />
+          <mxGeometry x="300" y="-260" width="1730" height="1730" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-3" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="275" width="30" height="60" as="geometry" />
@@ -25,10 +25,10 @@
         <mxCell id="bWWshmXrRq2cFkP4rkLB-19" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UC24 - Visualizar coordenador&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="791.5" y="831.25" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWWshmXrRq2cFkP4rkLB-22" value="UC44 - Visualizar categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bWWshmXrRq2cFkP4rkLB-22" value="UC34 - Visualizar categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="442.62" y="1235" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bWWshmXrRq2cFkP4rkLB-29" value="UC34 - Visualizar avaliador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bWWshmXrRq2cFkP4rkLB-29" value="UC44 - Visualizar avaliador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1186.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-31" value="UC28&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;- Indicar período de submissão de atividades&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -65,13 +65,13 @@
         <mxCell id="CCGscqTeK3ZTNfMnBpyx-3" value="UC7 - Remover avaliação da atividade" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="851.55" y="70" width="113" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-4" value="UC46 - Editar&amp;nbsp;&lt;div&gt;categoria&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-4" value="UC36 - Editar&amp;nbsp;&lt;div&gt;categoria&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="508.74" y="1349.75" width="96.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-5" value="UC45 - Cadastrar categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-5" value="UC35 - Cadastrar categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="1311" width="83.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-6" value="&lt;div&gt;UC47 - Inativar categoria&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-6" value="&lt;div&gt;UC37 - Inativar categoria&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593.26" y="1279" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-17" value="UC41 - Editar&lt;div&gt;Atividade&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -83,13 +83,13 @@
         <mxCell id="-yoFwPvrBQscrRqspG_J-21" value="UC42 - Inativar&lt;br&gt;&lt;div&gt;Atividade&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1134.5" y="1254" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-40" value="UC36 - Editar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-40" value="UC46 - Editar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1306.5" width="90" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-41" value="UC35 - Cadastrar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-41" value="UC45 - Cadastrar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1286.5" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yoFwPvrBQscrRqspG_J-42" value="UC37 - Inativar&lt;br&gt;&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-yoFwPvrBQscrRqspG_J-42" value="UC47 - Inativar&lt;br&gt;&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1266.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-49" value="UC26 - Editar Coordenador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -134,7 +134,7 @@
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-11" value="UC30 - Visualizar Alunos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1505" y="931.5" width="110" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="8u0rH5F0qFCnxMerEPqZ-13" value="UC32 - Editar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8u0rH5F0qFCnxMerEPqZ-13" value="UC31 - Editar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1724" y="1004.5" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-14" value="UC30 - Cadastrar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -442,7 +442,7 @@
             <mxPoint x="680" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-69" value="UC43 - Listar categorias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2doU3As-oRjPvJJeiD76-69" value="UC33 - Listar categorias" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="1130" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bWWshmXrRq2cFkP4rkLB-8" target="2doU3As-oRjPvJJeiD76-69" edge="1">
@@ -477,7 +477,7 @@
         <mxCell id="2doU3As-oRjPvJJeiD76-75" value="UC38 - Listar atividades" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777.6199999999999" y="1109" width="86.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-77" value="UC33 - Listar Avaliadores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2doU3As-oRjPvJJeiD76-77" value="UC43 - Listar Avaliadores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1180" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-79" value="UC29 - Listar Alunos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
