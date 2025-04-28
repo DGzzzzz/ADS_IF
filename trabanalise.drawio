@@ -790,7 +790,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-55" value="O administrador pode editar um curso partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-55" value="O administrador pode editar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360.88" y="740" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-55" edge="1">
@@ -800,7 +800,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-57" value="O administrador pode inativar um curso partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-57" value="O administrador pode inativar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="618.4999999999998" y="691.5" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-58" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-57" edge="1">
@@ -821,10 +821,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-63" value="O administrador pode cadastrar um curso partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-63" value="O administrador pode cadastrar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="729.9999999999998" y="605" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-64" value="O administrador pode visualizar um curso partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-64" value="O administrador pode visualizar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635.7499999999998" y="500" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-64" edge="1">
