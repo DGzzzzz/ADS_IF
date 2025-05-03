@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="lKEfuA6IKY5HmcUoQjAZ">
-    <mxGraphModel dx="3174" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3703" dy="2712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CCGscqTeK3ZTNfMnBpyx-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-250" width="2037.22" height="2037.22" as="geometry" />
+          <mxGeometry x="300" y="-250" width="2390" height="2390" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-3" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="275" width="30" height="60" as="geometry" />
@@ -29,22 +29,22 @@
           <mxGeometry x="442.62" y="1338.22" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-29" value="UC44 - Visualizar avaliador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="1186.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="1551" y="1247.19" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-31" value="UC28&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;- Indicar período de submissão de atividades&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="442.62" y="1090" width="167.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-33" value="UC11 - Iniciar horas complementares" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="767.4999999999999" y="268.75" width="116.88" height="65" as="geometry" />
+          <mxGeometry x="1398.2399999999998" y="313.75" width="116.88" height="65" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-35" value="UC4 - Listar solicitações pendentes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="394.99" y="15" width="113.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uQtxAWWseBeDYJraRtTC-1" value="UC12 - Alterar horas complementares" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="604.99" y="322.5" width="117.78" height="62.5" as="geometry" />
+          <mxGeometry x="1235.73" y="367.5" width="117.78" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="uQtxAWWseBeDYJraRtTC-7" value="UC17 - Submeter horas complementares" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1029.63" y="231.25" width="111" height="70" as="geometry" />
+          <mxGeometry x="1630" y="180" width="111" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uQtxAWWseBeDYJraRtTC-9" value="UC23 - Listar coordenadores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="598.5" y="822" width="97.5" height="57.5" as="geometry" />
@@ -84,13 +84,13 @@
           <mxGeometry x="1134.5" y="1254" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-40" value="UC46 - Editar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="1306.5" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="1581" y="1367.19" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-41" value="UC45 - Cadastrar&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="1286.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="1410" y="1353.81" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-42" value="UC47 - Inativar&lt;br&gt;&lt;div&gt;Avaliador&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="1266.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="1691" y="1327.19" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-49" value="UC26 - Editar Coordenador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="654.62" y="929.5" width="97" height="50" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="606.63" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-yoFwPvrBQscrRqspG_J-79" value="UC10 - Visualizar horas complementares" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="394.99" y="413.75" width="116.75" height="73.75" as="geometry" />
+          <mxGeometry x="776.75" y="356.25" width="116.75" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="gI51SIQM05FjkFTlWWCt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,37 +120,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gI51SIQM05FjkFTlWWCt-9" value="UC9 - Consultar parecer da solicitação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="381" y="322.5" width="120" height="75" as="geometry" />
+          <mxGeometry x="412.62" y="367.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9pl-VTxWgK47KkGAngoo-16" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Sistema Atividades Complementares&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-340" width="1470" height="50" as="geometry" />
+          <mxGeometry x="220" y="-400" width="1470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="-175" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-4" value="UC13 - Inserir atividades Realizadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="909.63" y="391.25" width="120" height="80" as="geometry" />
+          <mxGeometry x="1534" y="555" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-11" value="UC30 - Visualizar Alunos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1505" y="931.5" width="110" height="58" as="geometry" />
+          <mxGeometry x="2160" y="1353.81" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-13" value="UC31 - Editar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1724" y="1004.5" width="105" height="50" as="geometry" />
+          <mxGeometry x="2102.75" y="1500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-14" value="UC30 - Cadastrar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1644" y="1049.5" width="80" height="60" as="geometry" />
+          <mxGeometry x="2290" y="1450" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-15" value="UC32 - Inativar&lt;div&gt;Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1704" y="889.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1968" y="1413.81" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-26" value="&amp;nbsp;UC14&lt;div&gt;&amp;nbsp;- Editar Atividades Realizadas&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1118.75" y="413.75" width="105.75" height="57.5" as="geometry" />
+          <mxGeometry x="1684.99" y="467.5" width="105.75" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-27" value="UC16 - Visualizar Atividades realizadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="275" width="140" height="67.5" as="geometry" />
+          <mxGeometry x="1741" y="260" width="140" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-28" value="UC15 - Excluir Atividades Realizadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1196.02" y="358.75" width="117" height="60" as="geometry" />
+          <mxGeometry x="1840" y="370" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-39" value="UC1 -&amp;nbsp;&lt;div&gt;Fazer Login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367.21999999999997" y="-220" width="140" height="70" as="geometry" />
@@ -187,24 +187,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-10" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uQtxAWWseBeDYJraRtTC-1" target="bWWshmXrRq2cFkP4rkLB-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1667.38" y="468.75" as="sourcePoint" />
-            <mxPoint x="1587.38" y="468.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="770" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-11" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-4" target="bWWshmXrRq2cFkP4rkLB-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1667.38" y="468.75" as="sourcePoint" />
-            <mxPoint x="1587.38" y="468.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="860" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-14" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-26" target="bWWshmXrRq2cFkP4rkLB-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1667.38" y="538.75" as="sourcePoint" />
@@ -216,15 +198,6 @@
             <mxPoint x="1667.38" y="538.75" as="sourcePoint" />
             <mxPoint x="1327.38" y="238.75" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-16" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-27" target="bWWshmXrRq2cFkP4rkLB-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1667.38" y="538.75" as="sourcePoint" />
-            <mxPoint x="1587.38" y="538.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1060" y="320" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bWWshmXrRq2cFkP4rkLB-3" target="gI51SIQM05FjkFTlWWCt-9" edge="1">
@@ -342,7 +315,7 @@
             <mxPoint x="800" y="1160" as="sourcePoint" />
             <mxPoint x="870" y="1170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1260" y="1120" />
+              <mxPoint x="1240" y="1170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -372,7 +345,7 @@
             <mxPoint x="1234" y="989.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-56" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-13" target="8u0rH5F0qFCnxMerEPqZ-11" edge="1">
+        <mxCell id="2doU3As-oRjPvJJeiD76-56" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-13" target="8u0rH5F0qFCnxMerEPqZ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1134" y="999.5" as="sourcePoint" />
             <mxPoint x="1054" y="999.5" as="targetPoint" />
@@ -384,7 +357,7 @@
             <mxPoint x="1054" y="999.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2doU3As-oRjPvJJeiD76-58" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-15" target="8u0rH5F0qFCnxMerEPqZ-11" edge="1">
+        <mxCell id="2doU3As-oRjPvJJeiD76-58" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.027;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-15" target="8u0rH5F0qFCnxMerEPqZ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1134" y="999.5" as="sourcePoint" />
             <mxPoint x="1054" y="999.5" as="targetPoint" />
@@ -472,10 +445,10 @@
           <mxGeometry x="777.6199999999999" y="1109" width="86.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-77" value="UC43 - Listar Avaliadores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="1180" width="80" height="60" as="geometry" />
+          <mxGeometry x="1351" y="1240.69" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-79" value="UC29 - Listar Alunos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1304" y="979.5" width="110" height="60" as="geometry" />
+          <mxGeometry x="2140" y="1194" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wSRFLSiO6-oir-ddprbh-1" value="UC2 - Alterar Senha" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="-140" width="120" height="80" as="geometry" />
@@ -496,87 +469,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-1" value="O coordenador pode inativar um aluno da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1615" y="829.5" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-1" value="O coordenador decide remover um aluno da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1919" y="1510" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.43;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1684" y="919.5" as="sourcePoint" />
-            <mxPoint x="1665" y="859.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-7" value="O coordenador deseja modificar os dados de um aluno a partir da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="1540" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-7" value="O coordenador pode editar um aluno da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1814" y="944.5" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-9" value="O coordenador pode cadastrar um aluno a partir da lista de alunos." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="1374.5" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1704" y="999.5" as="sourcePoint" />
-            <mxPoint x="1689" y="889.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-11" value="O coordenador pode inativar um avaliador da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1812" y="1327.19" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-9" value="O coordenador pode cadastrar um aluno a partir da lista de alunos" style="shape=note;size=13;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1814" y="1079.5" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-13" value="O coordenador pode editar um avaliador da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1706" y="1397.19" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1664" y="1029.5" as="sourcePoint" />
-            <mxPoint x="1814" y="1094.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1704" y="1039.5" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-15" value="O coordenador pode cadastrar um avaliador da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="1431.69" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-11" value="O coordenador pode inativar um avaliador da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1751" y="1266.5" width="149" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1641" y="1246.5" as="sourcePoint" />
-            <mxPoint x="1626" y="1136.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1700" y="1256.5" />
-              <mxPoint x="1730" y="1266.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-13" value="O coordenador pode editar um avaliador da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1645" y="1336.5" width="149" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1560" y="1286.5" as="sourcePoint" />
-            <mxPoint x="1551" y="1276.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1610" y="1306.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-15" value="O coordenador pode cadastrar um avaliador da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1449" y="1371" width="149" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=64.5;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1470" y="1271" as="sourcePoint" />
-            <mxPoint x="1355" y="1311" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1510" y="1321" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-17" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-11" target="2doU3As-oRjPvJJeiD76-79" edge="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-17" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-11" target="2doU3As-oRjPvJJeiD76-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1518" y="1027.5" as="sourcePoint" />
             <mxPoint x="1413" y="1049.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-18" value="O coordenador pode visualizar um aluno da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1374" y="881.5" width="149" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.43;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1473" y="979.5" as="sourcePoint" />
-            <mxPoint x="1454" y="919.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-18" value="O coordenador deseja ver os detalhes de um aluno a partir da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="1270" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-20" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bWWshmXrRq2cFkP4rkLB-29" target="2doU3As-oRjPvJJeiD76-77" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -584,16 +502,10 @@
             <mxPoint x="1370" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-21" value="O coordenador pode visualizar um avaliador da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1460.5" y="1121" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-21" value="O coordenador pode visualizar um avaliador da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1179" width="149" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.43;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="1211" as="sourcePoint" />
-            <mxPoint x="1440" y="1151" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-23" value="O coordenador pode inativar uma atividade da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-23" value="O coordenador decide inativar uma atividade da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1166" y="1324.5" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-23" edge="1">
@@ -605,7 +517,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-25" value="O coordenador pode editar uma atividade da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-25" value="O coordenador deseja editar a atividade visualizada." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1078" y="1390" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-25" edge="1">
@@ -618,7 +530,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-27" value="O coordenador pode cadastrar uma atividade" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-27" value="O coordenador deseja cadastrar uma nova atividade." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="917.25" y="1344.5" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-27" edge="1">
@@ -640,7 +552,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-30" value="O coordenador pode visualizar uma atividade da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-30" value="O coordenador deseja visualizar uma atividade da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="767" y="1186.75" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-30" edge="1">
@@ -663,7 +575,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-33" value="O coordenador pode inativar uma categoria da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-33" value="O coordenador decide inativar uma categoria visualizada." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="596.63" y="1306.5" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-33" edge="1">
@@ -675,7 +587,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-35" value="O coordenador pode editar uma categoria da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-35" value="O coordenador deseja editar uma categoria visualizada." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700.12" y="1460" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -687,7 +599,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-37" value="O coordenador pode cadastrar uma categoria" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-37" value="O coordenador pode cadastrar uma nova categoria." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="371" y="1500" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -697,7 +609,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-39" value="O coordenador pode visualizar uma categoria da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-39" value="O coordenador deseja visualizar os detalhes de uma categoria da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="511" y="1240" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -719,8 +631,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-42" value="O administrador pode visualizar um coordenador a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="760" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-42" value="O administrador deseja visualizar detalhes de um coordenador a partir da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="760" width="169" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AyYcBoiFPqMzQxGw0_sF-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -731,7 +643,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-44" value="O administrador pode inativar um coordenador a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-44" value="O administrador decide remover um coordenador da lista." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="760" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AyYcBoiFPqMzQxGw0_sF-44" edge="1">
@@ -743,8 +655,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-46" value="O administrador pode cadastrar um coordenador a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="894.5" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-46" value="O administrador deseja cadastrar um novo coordenador a partir da tela de listagem." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="894.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AyYcBoiFPqMzQxGw0_sF-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -753,7 +665,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-48" value="O administrador pode editar um coordenador a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-48" value="O administrador deseja alterar os dados de um coordenador existente." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760.63" y="954.5" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AyYcBoiFPqMzQxGw0_sF-48" edge="1">
@@ -784,8 +696,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-55" value="O administrador pode editar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360.88" y="740" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-55" value=" O administrador deseja alterar os dados de um curso já cadastrado após inseri-lo." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.8" y="760" width="189.12" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -794,8 +706,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-57" value="O administrador pode inativar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="618.4999999999998" y="691.5" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-57" value="O administrador deseja tornar um curso indisponível (inativo) a partir da lista de cursos." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618.5" y="691.5" width="201.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AyYcBoiFPqMzQxGw0_sF-58" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -815,79 +727,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-63" value="O administrador pode cadastrar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="729.9999999999998" y="605" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-63" value="O administrador decide cadastrar um curso novo, a partir da lista de cursos." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="605" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-64" value="O administrador pode visualizar um curso a partir da lista" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="635.7499999999998" y="500" width="149" height="50" as="geometry" />
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-64" value=" O administrador deseja visualizar os detalhes de um curso específico a partir da lista de cursos disponíveis." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="664.26" y="475" width="220.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AyYcBoiFPqMzQxGw0_sF-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-64" edge="1">
+        <mxCell id="AyYcBoiFPqMzQxGw0_sF-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AyYcBoiFPqMzQxGw0_sF-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="570" as="sourcePoint" />
             <mxPoint x="1190" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="520" />
-              <mxPoint x="550" y="500" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evgu6P9j455PX_cAjAXk-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.307;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="evgu6P9j455PX_cAjAXk-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="350" as="sourcePoint" />
-            <mxPoint x="906" y="389" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-3" value="O aluno deseja alterar o total de horas complementares já registradas antes de submeter." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="391.25" width="194.38" height="50" as="geometry" />
+          <mxGeometry x="1266.36" y="463.75" width="194.38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-4" value="O aluno deseja registrar novas atividades realizadas para contar como horas complementares." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="490" width="210.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="evgu6P9j455PX_cAjAXk-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="evgu6P9j455PX_cAjAXk-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="390" as="sourcePoint" />
-            <mxPoint x="745" y="401" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="440" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1688.25" y="560" width="210.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-6" value="O aluno precisa modificar alguma informação de uma atividade que já foi inserida." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1068.37" y="490" width="171.63" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="evgu6P9j455PX_cAjAXk-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="evgu6P9j455PX_cAjAXk-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="410" as="sourcePoint" />
-            <mxPoint x="902" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1068" y="450" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1818.37" y="442.5" width="171.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-8" value="O aluno decide remover uma atividade que foi registrada anteriormente." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="441.25" width="195" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="evgu6P9j455PX_cAjAXk-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="evgu6P9j455PX_cAjAXk-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="380" as="sourcePoint" />
-            <mxPoint x="1078" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="410" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1990" y="317.5" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-10" value="O aluno deseja apenas consultar as atividades que ele já registrou, sem alterá-las." style="shape=note;size=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="200" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="evgu6P9j455PX_cAjAXk-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="evgu6P9j455PX_cAjAXk-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1140" y="310" as="sourcePoint" />
-            <mxPoint x="1275" y="451" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1170" y="260" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1830" y="200" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="evgu6P9j455PX_cAjAXk-12" value="Include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uQtxAWWseBeDYJraRtTC-7" target="bWWshmXrRq2cFkP4rkLB-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -959,6 +827,111 @@
         </mxCell>
         <mxCell id="PG-Fq4jw17T7N5MtyFT8-4" value="O sistema detecta que o usuário está acessando pela primeira vez" style="shape=note;size=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.62" y="-140" width="227.38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1571" y="1431.69" as="sourcePoint" />
+            <mxPoint x="1490" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AyYcBoiFPqMzQxGw0_sF-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="1350" as="sourcePoint" />
+            <mxPoint x="1790" y="1420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.425;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AyYcBoiFPqMzQxGw0_sF-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="1310" as="sourcePoint" />
+            <mxPoint x="1880" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1800" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AyYcBoiFPqMzQxGw0_sF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="1270" as="sourcePoint" />
+            <mxPoint x="1700" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AyYcBoiFPqMzQxGw0_sF-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="1440" as="sourcePoint" />
+            <mxPoint x="2460" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.349;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AyYcBoiFPqMzQxGw0_sF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2210" y="1530" as="sourcePoint" />
+            <mxPoint x="2180" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="1510" as="sourcePoint" />
+            <mxPoint x="2100" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.081;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AyYcBoiFPqMzQxGw0_sF-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2210" y="1330" as="sourcePoint" />
+            <mxPoint x="2380" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-23" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8u0rH5F0qFCnxMerEPqZ-4" target="bWWshmXrRq2cFkP4rkLB-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1769" y="481" as="sourcePoint" />
+            <mxPoint x="1508" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-24" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.101;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uQtxAWWseBeDYJraRtTC-1" target="bWWshmXrRq2cFkP4rkLB-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1568" y="458" as="sourcePoint" />
+            <mxPoint x="1467" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-25" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8u0rH5F0qFCnxMerEPqZ-27" target="bWWshmXrRq2cFkP4rkLB-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1355" y="392" as="sourcePoint" />
+            <mxPoint x="1420" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=97.19;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="evgu6P9j455PX_cAjAXk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="380" as="sourcePoint" />
+            <mxPoint x="1380" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="evgu6P9j455PX_cAjAXk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="510" as="sourcePoint" />
+            <mxPoint x="1660" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="evgu6P9j455PX_cAjAXk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="390" as="sourcePoint" />
+            <mxPoint x="1750" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.017;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="evgu6P9j455PX_cAjAXk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1650" y="450" as="sourcePoint" />
+            <mxPoint x="1790" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PG-Fq4jw17T7N5MtyFT8-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="evgu6P9j455PX_cAjAXk-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="300" as="sourcePoint" />
+            <mxPoint x="1790" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
