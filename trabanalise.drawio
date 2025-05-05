@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="lKEfuA6IKY5HmcUoQjAZ">
-    <mxGraphModel dx="1587" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CCGscqTeK3ZTNfMnBpyx-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-250" width="2390" height="2390" as="geometry" />
+          <mxGeometry x="280" y="-344.25" width="2390" height="2390" as="geometry" />
         </mxCell>
         <mxCell id="bWWshmXrRq2cFkP4rkLB-3" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="275" width="30" height="60" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="1840" y="370" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u0rH5F0qFCnxMerEPqZ-39" value="UC1 -&amp;nbsp;&lt;div&gt;Fazer Login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367.21999999999997" y="-220" width="140" height="70" as="geometry" />
+          <mxGeometry x="368.73999999999995" y="-245" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2doU3As-oRjPvJJeiD76-1" value="UC 5- Abrir solicitação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="621.63" y="15" width="113.75" height="70" as="geometry" />
@@ -451,7 +451,7 @@
           <mxGeometry x="2140" y="1194" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wSRFLSiO6-oir-ddprbh-1" value="UC3 - Alterar Senha" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="371" y="-140" width="120" height="80" as="geometry" />
+          <mxGeometry x="378.74" y="-170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wSRFLSiO6-oir-ddprbh-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8u0rH5F0qFCnxMerEPqZ-1" target="wSRFLSiO6-oir-ddprbh-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -931,6 +931,15 @@
             <Array as="points">
               <mxPoint x="1760" y="250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGbC2lwKQOTJ6DJwjx6W-1" value="UC49 - Fazer Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="-80" width="108.74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sGbC2lwKQOTJ6DJwjx6W-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sGbC2lwKQOTJ6DJwjx6W-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="-140" as="sourcePoint" />
+            <mxPoint x="389" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
